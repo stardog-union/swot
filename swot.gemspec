@@ -1435,6 +1435,7 @@ Gem::Specification.new do |s|
     "lib/domains/cz/slu.txt",
     "lib/domains/cz/sps-tabor.txt",
     "lib/domains/cz/tiffinprague.txt",
+    "lib/domains/cz/uhk.txt",
     "lib/domains/cz/ujep.txt",
     "lib/domains/cz/unicorncollege.txt",
     "lib/domains/cz/unva.txt",
