@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "swot"
-  s.version = "1.0.2"
+  s.version = "1.0.4"
 
   s.metadata['allowed_push_host'] = 'https://stardog.jfrog.io/stardog/api/gems/stardog-gems'
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -397,6 +397,7 @@ Gem::Specification.new do |s|
     "lib/domains/be/uams.txt",
     "lib/domains/be/uantwerpen.txt",
     "lib/domains/be/uclouvain.txt",
+    "lib/domains/be/ugent.txt",
     "lib/domains/be/uhasselt.txt",
     "lib/domains/be/vives.txt",
     "lib/domains/be/vives/student.txt",
