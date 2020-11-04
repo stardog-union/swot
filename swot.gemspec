@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "swot"
-  s.version = "1.0.7"
+  s.version = "1.0.9"
 
   s.metadata['allowed_push_host'] = 'https://stardog.jfrog.io/stardog/api/gems/stardog-gems'
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -4582,6 +4582,7 @@ Gem::Specification.new do |s|
     "lib/domains/is/ru.txt",
     "lib/domains/is/unak.txt",
     "lib/domains/it/ciusa.txt",
+    "lib/domains/it/cnr/stiima.txt",
     "lib/domains/it/imtlucca.txt",
     "lib/domains/it/istitutoacerbo.txt",
     "lib/domains/it/itiscastelli.txt",
@@ -6448,6 +6449,7 @@ Gem::Specification.new do |s|
     "lib/domains/ru/istu.txt",
     "lib/domains/ru/isu.txt",
     "lib/domains/ru/isuct.txt",
+    "lib/domains/ru/itmo.txt",
     "lib/domains/ru/jum.txt",
     "lib/domains/ru/kai.txt",
     "lib/domains/ru/kalmsu.txt",
@@ -6734,6 +6736,7 @@ Gem::Specification.new do |s|
     "lib/domains/se/htu.txt",
     "lib/domains/se/hv.txt",
     "lib/domains/se/it-gymnasiet.txt",
+    "lib/domains/se/ju.txt",
     "lib/domains/se/kau.txt",
     "lib/domains/se/ki.txt",
     "lib/domains/se/konstfack.txt",
