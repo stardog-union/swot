@@ -4582,7 +4582,7 @@ Gem::Specification.new do |s|
     "lib/domains/is/ru.txt",
     "lib/domains/is/unak.txt",
     "lib/domains/it/ciusa.txt",
-    "lib/domains/it/cnr/stiima.txt",
+    "lib/domains/it/cnr.txt",
     "lib/domains/it/imtlucca.txt",
     "lib/domains/it/istitutoacerbo.txt",
     "lib/domains/it/itiscastelli.txt",
